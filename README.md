@@ -1,4 +1,4 @@
-# FitnessDB Website
+# Tushar Webpage
 A website which guides about fitness and health. This is my first web project to practice in web development. Coded by using only HTML, CSS and JavaScript. No framework used.
 
 
