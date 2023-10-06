@@ -1,2 +1,27 @@
-# webpage-about-sports-and-fitness
-this website is based on various exercise , and also attached form to do that , this exercise also divided into gaining muscle , cardio, and powerlifting , and street workout, also how to perform this also mentioned in this ,nav bar like about , bmi, calories intake , workout plan,faq,and at last contact ,this website is responsive to all devices
+# FitnessDB Website
+A website which guides about fitness and health. This is my first web project to practice in web development. Coded by using only HTML, CSS and JavaScript. No framework used.
+
+
+
+### About Page:
+Gives basic information about the website.
+
+### BMI:
+Gives information about BMI and calculates BMI according to user input to determine a goal.
+
+### Caloric Needs:
+Gives information about calorie needings and calculates caloric needs according to user's information and target.
+
+### Workout Planning:
+Shows different kinds of workout plans.
+
+### Exercise Guide:
+User selects an exercise and the system shows selected exercise's form to user.
+
+
+### Contact:
+Shows contact information of developer.
+
+
+
+
